@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9E011D9D-9FBA-4264-A52E-BD76219C32E0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9ECB7D4-3006-4207-A416-D4E1306F0DE1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sept-8-2023/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "F9ECB7D4-3006-4207-A416-D4E1306F0DE1 - 80a32273f7af583d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Sept-8-2023"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christophersorenson/Documents/GitHub/LeetCode/Dailies/Sept-8-2023/Sept-8-2023/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "F9ECB7D4-3006-4207-A416-D4E1306F0DE1 - 80a32273f7af583d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Sept-8-2023"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christophersorenson/Documents/GitHub/LeetCode/Dailies/Sept-8-2023/Sept-8-2023/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
