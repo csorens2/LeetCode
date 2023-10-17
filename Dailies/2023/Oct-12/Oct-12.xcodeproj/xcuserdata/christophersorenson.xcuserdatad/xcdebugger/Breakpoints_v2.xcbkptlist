@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4DC22893-66F3-4276-BC4F-49BD1DA3A8C5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8665BDD-A0F6-40A5-9D4E-A360B228D208"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Oct-12/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "C8665BDD-A0F6-40A5-9D4E-A360B228D208 - 705c8f5d0c8e23b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Oct-12"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christophersorenson/Documents/GitHub/LeetCode/Dailies/2023/Oct-12/Oct-12/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "216"
+                  endingLineNumber = "216"
+                  offsetFromSymbolStart = "2032">
+               </Location>
+               <Location
+                  uuid = "C8665BDD-A0F6-40A5-9D4E-A360B228D208 - 705c8f5d0c8e23b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Oct-12"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christophersorenson/Documents/GitHub/LeetCode/Dailies/2023/Oct-12/Oct-12/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "216"
+                  endingLineNumber = "216"
+                  offsetFromSymbolStart = "2076">
+               </Location>
+               <Location
+                  uuid = "C8665BDD-A0F6-40A5-9D4E-A360B228D208 - 705c8f5d0c8e23b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Oct-12"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christophersorenson/Documents/GitHub/LeetCode/Dailies/2023/Oct-12/Oct-12/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "216"
+                  endingLineNumber = "216"
+                  offsetFromSymbolStart = "1944">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A5AD041-E804-4CFA-915A-95AB1CB3AB41"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Oct-12/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "findInMountainArray(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5A5AD041-E804-4CFA-915A-95AB1CB3AB41 - d2987622cca2081c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Oct_12.Solution.findInMountainArray(Swift.Int, Oct_12.MountainArray) -&gt; Swift.Int"
+                  moduleName = "Oct-12"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christophersorenson/Documents/GitHub/LeetCode/Dailies/2023/Oct-12/Oct-12/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "5A5AD041-E804-4CFA-915A-95AB1CB3AB41 - d2987622cca208d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Oct_12.Solution.findInMountainArray(Swift.Int, Oct_12.MountainArray) -&gt; Swift.Int"
+                  moduleName = "Oct-12"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christophersorenson/Documents/GitHub/LeetCode/Dailies/2023/Oct-12/Oct-12/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A73E083F-1531-417B-B62D-F98A7239AE79"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Oct-12/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "rec_findNumIndex(_:_:_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A73E083F-1531-417B-B62D-F98A7239AE79 - ebb5c2ba987f3f28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Oct_12.Solution.rec_findNumIndex(Oct_12.CachedMountainArray, Swift.Int, Swift.Int, Swift.Int, Oct_12.MountainSide) -&gt; Swift.Int"
+                  moduleName = "Oct-12"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christophersorenson/Documents/GitHub/LeetCode/Dailies/2023/Oct-12/Oct-12/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "A73E083F-1531-417B-B62D-F98A7239AE79 - ebb5c2ba987f3f28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Oct_12.Solution.rec_findNumIndex(Oct_12.CachedMountainArray, Swift.Int, Swift.Int, Swift.Int, Oct_12.MountainSide) -&gt; Swift.Int"
+                  moduleName = "Oct-12"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christophersorenson/Documents/GitHub/LeetCode/Dailies/2023/Oct-12/Oct-12/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "457A883D-04D8-4493-92B2-36CEB117E291"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Oct-12/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "rec_findNumIndex(_:_:_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC072C19-9019-45C5-9C77-38758046E964"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Oct-12/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "findInMountainArray(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
